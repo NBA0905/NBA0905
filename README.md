@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there 👋, I'm Anh but you can call me ALan!
+# Hi there 👋, I'm Anh but you can call me Alan!
 
 I'm a (learning) software developer residing in the Netherlands passionate about **web/app development**, **AI**, and **game development**.
 
